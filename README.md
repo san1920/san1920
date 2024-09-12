@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @terlindora Hanumanthu
 - 👀 I’m interested in learning new coding skills
-- 🌱 I’m currently learning ... Python,c++,data
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... a lottt.
+- 💞️ I’m looking to collaborate on ... mindful contribution.
+- 🧑🏽‍💻 I code in Java, C++, Python and a bit of JS
 - 📫 How to reach me ... terlin228@gmail.com
 
 <!---
